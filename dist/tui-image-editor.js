@@ -15258,7 +15258,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	var imageOption = {
 	    padding: 0,
-	    crossOrigin: 'Anonymous'
+	    crossOrigin: 'use-credentials'
 	};
 
 	/**
